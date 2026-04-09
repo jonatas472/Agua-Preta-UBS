@@ -1,4 +1,4 @@
-# Apollo-UBS
+# Agua-Preta-UBS
 
 👥 Integrantes:
 - Cecília Helena Miranda Silva
