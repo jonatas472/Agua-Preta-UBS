@@ -2,7 +2,7 @@
 
 👥 Integrantes:
 - Cecília Helena Miranda Silva
-- Marilia Gabrielly do Nascimento
+- Isi Luana
 - Jonatas Felipe Silva Calado
 
 🎯 Objetivo do Projeto:
