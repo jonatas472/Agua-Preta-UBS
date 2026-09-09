@@ -4,6 +4,7 @@
 - Cecília Helena Miranda Silva
 - Isi Luana
 - Jonatas Felipe Silva Calado
+- Marilia Gabrielly Nascimento
 
 🎯 Objetivo do Projeto:
 - A Apollo UBS será uma ferramenta de apoio às Unidades Básicas de Saúde, pensando em melhorar a comunicação com a população e otimizar o acesso aos serviços oferecidos. Visamos enfrentar a falta de informações, a desinformações espalhadas sobre as vacinas e a dificuldade no agendamento de consultas, o projeto propõe a criação de um sistema de divulgação, pesquisa e agendamento simples, acessível e eficiente.
